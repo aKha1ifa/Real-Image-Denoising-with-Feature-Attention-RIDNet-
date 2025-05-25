@@ -61,8 +61,6 @@ Trained and tested on:
 ![image](https://github.com/user-attachments/assets/e7896c69-2c2d-48a5-ba8b-9908a4fc79f0)
 
 
-(Replace these image paths with actual screenshots from your results folder.)
-
 ---
 
 ## 🔬 Comparison with RIDNet Paper
