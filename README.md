@@ -59,6 +59,10 @@ Trained and tested on:
 ## 🖼️ Sample Outputs
 
 ![image](https://github.com/user-attachments/assets/e7896c69-2c2d-48a5-ba8b-9908a4fc79f0)
+![image](https://github.com/user-attachments/assets/6ef875b6-dd0a-43e6-b1d3-14ff84884f18)
+![image](https://github.com/user-attachments/assets/8fe7975e-eeea-4e1d-9365-41e0a8261c46)
+![image](https://github.com/user-attachments/assets/36a937a8-0d21-47e3-908e-8dbd4c765bd5)
+![image](https://github.com/user-attachments/assets/29498f0d-4052-4af9-aab8-279bdb828f01)
 
 
 ---
